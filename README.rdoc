@@ -1,0 +1,15 @@
+= Simple Google Crawler
+
+This is a very simple program searches for given string in Google and click the first link
+
+== Setup
+
+  $ bundle install
+
+== Running
+
+  $ ruby simple_google_crawler.rb
+
+== Copyright
+
+Copyright (c) 2015 Piotr Brudny.
