@@ -1,6 +1,6 @@
 = Simple Google Crawler
 
-This is a very simple program that searches for a given string in Google and clicks the first link
+This is a very simple program that searches for a given string in Google and clicks on the first link
 
 == Setup
 
