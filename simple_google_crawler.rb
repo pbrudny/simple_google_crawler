@@ -1,4 +1,4 @@
-require_relative 'lib/crawler'
+require_relative 'lib/google_crawler'
 
 crawler = GoogleCrawler.new
 crawler.search('which university')
