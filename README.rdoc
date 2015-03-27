@@ -10,6 +10,12 @@ This is a very simple program that searches for a given string in Google and cli
 
   $ ruby simple_google_crawler.rb
 
+== Testing
+
+You can test crawler class using Minitest.
+
+  $ ruby test/google_crawler_test.rb
+
 == Copyright
 
 Copyright (c) 2015 Piotr Brudny.
